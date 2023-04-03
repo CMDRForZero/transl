@@ -1,0 +1,6 @@
+/root/trans/10/buildfolder/CMakeFiles/antlr4_runtime.dir
+/root/trans/10/buildfolder/CMakeFiles/antlr4_runtime-build_static.dir
+/root/trans/10/buildfolder/CMakeFiles/antlr4_runtime-build_shared.dir
+/root/trans/10/buildfolder/CMakeFiles/demo.dir
+/root/trans/10/buildfolder/CMakeFiles/edit_cache.dir
+/root/trans/10/buildfolder/CMakeFiles/rebuild_cache.dir
